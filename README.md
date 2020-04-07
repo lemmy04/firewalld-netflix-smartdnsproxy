@@ -1,0 +1,1 @@
+# firewalld-netflix-smartdnsproxy
